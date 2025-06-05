@@ -29,10 +29,10 @@ Unlike most TTS systems with strict character limits, our solution:
   Votre navigateur ne supporte pas les vidéos HTML5.
 </video>
 
-![I'll be back!](/img/demo-1.mp4)
+- [I'll be back!](/img/demo-1.mp4)
 - [Your all Life is just a dream!](/img/demo-2.mp4)
 - [We have a Job offer right!](/img/demo-2.mp4)
-- [Chicken boy!](/img/demo-2.mp4)
+- [Chicken boy, ...](/img/demo-2.mp4)
 
 # 🛠️ Installation
 
