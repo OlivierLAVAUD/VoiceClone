@@ -1,0 +1,14 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+main/app copy 2.py
+main/app copy.py
+/main/versions
+/voice_cloning_recordings- copy
