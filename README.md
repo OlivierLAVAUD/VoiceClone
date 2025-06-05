@@ -21,6 +21,12 @@ Unlike most TTS systems with strict character limits, our solution:
 - Preserves voice characteristics across long generations
 
 
+## Demos
+- [I'll be back!](/img/demo-1.mp4)
+- [Your all Life is just a dream!](/img/demo-2.mp4)
+- [We have a Job offer right!](/img/demo-2.mp4)
+- [Chicken boy!](/img/demo-2.mp4)
+
 # 🛠️ Installation
 
 ## with Docker
@@ -31,6 +37,8 @@ Unlike most TTS systems with strict character limits, our solution:
 docker-compose up
 ```
 3. Usage on your local browser (http://localhost:7860/)
+
+Note: first use is longer (loading weight model) and the others quicker (dividing time by 4 with cache)  
 
 ## with Sources
 
