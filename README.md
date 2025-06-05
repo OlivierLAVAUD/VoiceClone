@@ -22,8 +22,14 @@ Unlike most TTS systems with strict character limits, our solution:
 
 
 ## Demos
-- ![](/img/image.png)
-- ![I'll be back!](/img/demo-1.mp4)
+![](/img/image.png)
+
+<video controls width="500">
+  <source src="/img/demo-1.mp4" type="video/mp4">
+  Votre navigateur ne supporte pas les vidéos HTML5.
+</video>
+
+![I'll be back!](/img/demo-1.mp4)
 - [Your all Life is just a dream!](/img/demo-2.mp4)
 - [We have a Job offer right!](/img/demo-2.mp4)
 - [Chicken boy!](/img/demo-2.mp4)
