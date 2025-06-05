@@ -22,7 +22,8 @@ Unlike most TTS systems with strict character limits, our solution:
 
 
 ## Demos
-- [I'll be back!](/img/demo-1.mp4)
+- ![](/img/image.png)
+- ![I'll be back!](/img/demo-1.mp4)
 - [Your all Life is just a dream!](/img/demo-2.mp4)
 - [We have a Job offer right!](/img/demo-2.mp4)
 - [Chicken boy!](/img/demo-2.mp4)
